@@ -1,0 +1,13 @@
+,positive,negative,final
+implemented_sum,6258329.89,-106992.94,6151336.96
+original_sum,906570.49,-374074.29,532496.2
+sum_change,5351759.41,-267081.35,5618840.76
+sum_change_rate,5.9,-0.71,10.55
+implemented_mean,985.41,-16.85,968.56
+original_mean,142.74,-58.9,83.84
+mean_change,842.66,-42.05,884.72
+mean_change_rate,5.9,-0.71,10.55
+implemented_median,143.9,-2.38,129.5
+original_median,22.88,-14.28,7.46
+median_change,121.02,-11.91,122.03
+median_change_rate,5.29,-0.83,16.35
